@@ -22,6 +22,7 @@ import 'package:shared_preferences_foundation/shared_preferences_foundation.dart
 import 'package:url_launcher_ios/url_launcher_ios.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:device_info_plus/device_info_plus.dart';
+import 'package:flutter_local_notifications_linux/flutter_local_notifications_linux.dart';
 import 'package:path_provider_linux/path_provider_linux.dart';
 import 'package:shared_preferences_linux/shared_preferences_linux.dart';
 import 'package:url_launcher_linux/url_launcher_linux.dart';
@@ -197,6 +198,16 @@ class _PluginRegistrant {
       } catch (err) {
         print(
           '`device_info_plus` threw an error: $err. '
+          'The app may not function as expected until you remove this plugin from pubspec.yaml'
+        );
+        rethrow;
+      }
+
+      try {
+        LinuxFlutterLocalNotificationsPlugin.registerWith();
+      } catch (err) {
+        print(
+          '`flutter_local_notifications_linux` threw an error: $err. '
           'The app may not function as expected until you remove this plugin from pubspec.yaml'
         );
         rethrow;

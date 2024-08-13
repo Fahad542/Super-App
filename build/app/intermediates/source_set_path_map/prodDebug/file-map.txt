@@ -1,0 +1,55 @@
+com.premier.superapp-jetified-play-services-maps-18.1.0-0 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\10b86bbbe2d2b965f413dda75438d460\transformed\jetified-play-services-maps-18.1.0\res
+com.premier.superapp-jetified-firebase-messaging-24.0.0-1 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\15216e235bcad2f3845a4ea138bb993f\transformed\jetified-firebase-messaging-24.0.0\res
+com.premier.superapp-jetified-play-services-basement-18.4.0-2 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\20169d2ad6e2216b5637f2cfef6d0c9e\transformed\jetified-play-services-basement-18.4.0\res
+com.premier.superapp-jetified-savedstate-1.2.0-3 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\2bd6b2ac7648de1da6d29a5062fed884\transformed\jetified-savedstate-1.2.0\res
+com.premier.superapp-jetified-activity-1.6.1-4 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\2c6307289edb565417e34dd77d50b80f\transformed\jetified-activity-1.6.1\res
+com.premier.superapp-jetified-window-1.0.0-beta04-5 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\2d0d75db7b0dd31e703e57f7d524fb99\transformed\jetified-window-1.0.0-beta04\res
+com.premier.superapp-jetified-play-services-base-18.1.0-6 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\2d6ff5989ae2af1adb2048d5b1efeabb\transformed\jetified-play-services-base-18.1.0\res
+com.premier.superapp-jetified-annotation-experimental-1.3.0-7 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\45987208e86a45fc7b2e69226798013a\transformed\jetified-annotation-experimental-1.3.0\res
+com.premier.superapp-media-1.1.0-8 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\4dd9715c632043814b0519ae0460b27d\transformed\media-1.1.0\res
+com.premier.superapp-core-1.9.0-9 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\5448a64406212a07b96f8ed6e5b7f28f\transformed\core-1.9.0\res
+com.premier.superapp-lifecycle-viewmodel-2.5.1-10 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\562cf068835c92c15c9dc53996ab25e5\transformed\lifecycle-viewmodel-2.5.1\res
+com.premier.superapp-localbroadcastmanager-1.1.0-11 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\82c3e3d04593fa752ee74b7379e2a279\transformed\localbroadcastmanager-1.1.0\res
+com.premier.superapp-jetified-ads-adservices-java-1.0.0-beta05-12 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\93d6fb00ecf71e5b5e97277956b6a9ba\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+com.premier.superapp-jetified-core-common-2.0.2-13 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\9729a4081043f2c8eb3acc6b0e29d09a\transformed\jetified-core-common-2.0.2\res
+com.premier.superapp-lifecycle-runtime-2.5.1-14 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\a252d7af7737bc49e636f797e0fb1abc\transformed\lifecycle-runtime-2.5.1\res
+com.premier.superapp-jetified-core-ktx-1.9.0-15 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\ac0a4c3339974562dab8099741ac937e\transformed\jetified-core-ktx-1.9.0\res
+com.premier.superapp-jetified-play-services-measurement-api-22.0.2-16 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\b9f28225f5640f96df059ce1498a4922\transformed\jetified-play-services-measurement-api-22.0.2\res
+com.premier.superapp-jetified-window-java-1.0.0-beta04-17 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\bbf272e2be868b6b738fbb4aa49df2e2\transformed\jetified-window-java-1.0.0-beta04\res
+com.premier.superapp-jetified-lifecycle-viewmodel-savedstate-2.5.1-18 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\bfcd8715b51088fac25c2bad67a6d84c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.premier.superapp-lifecycle-livedata-core-2.5.1-19 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\d2a8c5da98a5dc30cf0bcfc1511dd41a\transformed\lifecycle-livedata-core-2.5.1\res
+com.premier.superapp-jetified-ads-adservices-1.0.0-beta05-20 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\ed89b88d76debe095dedaf8457e24d1b\transformed\jetified-ads-adservices-1.0.0-beta05\res
+com.premier.superapp-coordinatorlayout-1.0.0-21 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\f001ac627c796097c0de6995b5ecf6ee\transformed\coordinatorlayout-1.0.0\res
+com.premier.superapp-jetified-firebase-common-21.0.0-22 C:\Users\Fahad Shafiq\.gradle\caches\transforms-3\f3741813cae477263482cb6f8e22252e\transformed\jetified-firebase-common-21.0.0\res
+com.premier.superapp-debug-23 E:\Fahad\Github_repository\Super-App\android\app\src\debug\res
+com.premier.superapp-main-24 E:\Fahad\Github_repository\Super-App\android\app\src\main\res
+com.premier.superapp-prod-25 E:\Fahad\Github_repository\Super-App\android\app\src\prod\res
+com.premier.superapp-prodDebug-26 E:\Fahad\Github_repository\Super-App\android\app\src\prodDebug\res
+com.premier.superapp-prod-27 E:\Fahad\Github_repository\Super-App\build\app\generated\res\google-services\prod\debug
+com.premier.superapp-prod-28 E:\Fahad\Github_repository\Super-App\build\app\generated\res\pngs\prod\debug
+com.premier.superapp-prod-29 E:\Fahad\Github_repository\Super-App\build\app\generated\res\resValues\prod\debug
+com.premier.superapp-prod-30 E:\Fahad\Github_repository\Super-App\build\app\generated\res\rs\prod\debug
+com.premier.superapp-mergeProdDebugResources-31 E:\Fahad\Github_repository\Super-App\build\app\intermediates\incremental\prodDebug\mergeProdDebugResources\merged.dir
+com.premier.superapp-mergeProdDebugResources-32 E:\Fahad\Github_repository\Super-App\build\app\intermediates\incremental\prodDebug\mergeProdDebugResources\stripped.dir
+com.premier.superapp-merged_res-33 E:\Fahad\Github_repository\Super-App\build\app\intermediates\merged_res\prodDebug
+com.premier.superapp-packaged_res-34 E:\Fahad\Github_repository\Super-App\build\app_settings\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-35 E:\Fahad\Github_repository\Super-App\build\connectivity_plus\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-36 E:\Fahad\Github_repository\Super-App\build\device_info_plus\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-37 E:\Fahad\Github_repository\Super-App\build\firebase_core\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-38 E:\Fahad\Github_repository\Super-App\build\firebase_messaging\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-39 E:\Fahad\Github_repository\Super-App\build\flutter_background_service_android\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-40 E:\Fahad\Github_repository\Super-App\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-41 E:\Fahad\Github_repository\Super-App\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-42 E:\Fahad\Github_repository\Super-App\build\geocoding\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-43 E:\Fahad\Github_repository\Super-App\build\geolocator_android\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-44 E:\Fahad\Github_repository\Super-App\build\google_maps_flutter_android\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-45 E:\Fahad\Github_repository\Super-App\build\image_picker_android\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-46 E:\Fahad\Github_repository\Super-App\build\in_app_update\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-47 E:\Fahad\Github_repository\Super-App\build\map_launcher\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-48 E:\Fahad\Github_repository\Super-App\build\open_file_safe\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-49 E:\Fahad\Github_repository\Super-App\build\package_info\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-50 E:\Fahad\Github_repository\Super-App\build\path_provider_android\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-51 E:\Fahad\Github_repository\Super-App\build\permission_handler_android\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-52 E:\Fahad\Github_repository\Super-App\build\shared_preferences_android\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-53 E:\Fahad\Github_repository\Super-App\build\sqflite\intermediates\packaged_res\debug
+com.premier.superapp-packaged_res-54 E:\Fahad\Github_repository\Super-App\build\url_launcher_android\intermediates\packaged_res\debug

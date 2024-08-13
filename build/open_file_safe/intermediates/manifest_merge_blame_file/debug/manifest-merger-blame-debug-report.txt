@@ -1,0 +1,39 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.crazecoder.openfile" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="16"
+7-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="16" />
+8-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+10-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:5:5-80
+10-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:5:22-77
+11
+12    <application>
+12-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:7:5-19:19
+13        <provider
+13-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:8:9-18:20
+14            android:name="com.crazecoder.openfile.FileProvider"
+14-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:9:13-64
+15            android:authorities="${applicationId}.fileProvider.com.crazecoder.openfile"
+15-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:10:13-88
+16            android:exported="false"
+16-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:11:13-37
+17            android:grantUriPermissions="true"
+17-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:12:13-47
+18            tools:replace="android:authorities" >
+18-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:13:13-48
+19            <meta-data
+19-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:14:13-17:20
+20                android:name="android.support.FILE_PROVIDER_PATHS"
+20-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:15:17-67
+21                android:resource="@xml/filepaths" />
+21-->C:\Users\Fahad Shafiq\AppData\Local\Pub\Cache\hosted\pub.dev\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:16:17-50
+22        </provider>
+23    </application>
+24
+25</manifest>

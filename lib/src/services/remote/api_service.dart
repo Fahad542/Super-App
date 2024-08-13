@@ -1766,7 +1766,7 @@ class ApiService {
     }
   }
   Future<ApiResult<VersionModel>?> version(
-      BuildContext context) async {
+      BuildContext context, String token) async {
     try {
       var response = await _apiClient?.postReq(
         "/UpdateToken",
@@ -1775,6 +1775,7 @@ class ApiService {
           "login_type": user.user?.data?.loginType.toString(),
           "user_code": user.user?.data?.userCode.toString(),
           "branch_id": user.user?.data?.branchId.toString(),
+          "fcm_token":token,
         },
       );
 

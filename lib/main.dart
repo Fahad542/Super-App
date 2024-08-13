@@ -1,3 +1,5 @@
+import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 
 import 'package:in_app_update/in_app_update.dart';
@@ -10,10 +12,15 @@ import 'package:premier/src/services/local/background_serv.dart';
 import 'package:premier/src/services/local/flavor_service.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import 'Push_notifications.dart';
+
 void main() async {
   final updateManager = UpdateManager();
 
   WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+
+  await FirebaseApi().initNotification();
   // _requestLocationPermission(); // Add this line for location permission
   AuthService.prefs = await SharedPreferences.getInstance();
   BackgroundServ.init();
@@ -50,7 +57,8 @@ Future<void> _requestLocationPermission() async {
     // You may want to open the app settings so the user can manually enable the permission
     openAppSettings();
   }
-}}
+}
+}
 class UpdateManager {
   Future<void> checkForUpdate() async {
     print('Checking for Update');

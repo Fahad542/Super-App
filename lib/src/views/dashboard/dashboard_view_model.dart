@@ -1,6 +1,7 @@
 import 'dart:io';
 import 'dart:typed_data';
 import 'package:cached_network_image/cached_network_image.dart';
+import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
 import 'package:flutter/material.dart' as m;
@@ -70,20 +71,17 @@ class DashboardViewModel extends ReactiveViewModel
   String apiversion = '';
   List<VersionModel> dataa = [];
   bool updateSuccessful = false;
-
+  final FirebaseMessaging _firebaseMessaging = FirebaseMessaging.instance;
   late Version localVersion;
   late Version apiVersion;
 
-// Call checkAppVersion wherever you need to initiate the version check
-// For example, in your initState() or build() method in a Flutter widget.
-// checkAppVersion(context);
+
 
   init(BuildContext context) async {
-    // Assuming this code is inside an asynchronous function
-    // Assuming this code is inside an asynchronous function
-    // Assuming this code is inside an asynchronous function
+    await _firebaseMessaging.requestPermission();
+    String token = await _firebaseMessaging.getToken() ?? "";
     try {
-      var versionResult = await ApiService().version(context);
+      var versionResult = await ApiService().version(context,token);
       PackageInfo packageInfo = await PackageInfo.fromPlatform();
       version = packageInfo.version;
       print("App Version: $version");

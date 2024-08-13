@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.premier.superapp",
+  "variantName": "prodDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 11,
+      "versionName": "11.0.0",
+      "outputFile": "app-prod-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}
